@@ -1,1 +1,1 @@
-# This program takes in an integer and outputs age group that integer would fall into.
+# This program takes in an integer and outputs the age group that the integer would fall into.
